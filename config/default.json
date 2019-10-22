@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://medo:medo@contactmanger-gtmoe.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
